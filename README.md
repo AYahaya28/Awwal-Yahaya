@@ -1,4 +1,4 @@
-## Hi there 👋
+## A collection of data science projects including regression analysis, demographic studies, and visualization projects 👋
 
 <!--
 **AYahaya28/AYahaya28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
